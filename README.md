@@ -1,2 +1,2 @@
 # sbuffer
-sbuffer class (derived from Stream)
+sbuffer class (derived from Stream class)
